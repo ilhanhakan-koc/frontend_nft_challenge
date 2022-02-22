@@ -73,7 +73,6 @@ p {
     left: 50%;
     transform: translate(-50%, -50%);
     opacity: 0;
-    transition: .5s ease;
 }
 
 .main__content--overlay:hover > i {
@@ -89,7 +88,6 @@ p {
     height: 100%;
     background: var(--clr-primary-cyan);
     opacity: 0;
-    transition: .5s ease;
     border-radius: .8em;
     cursor: pointer;
 }
