@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://htmlpreview.github.io/?https://github.com/ilhanhakan-koc/frontend_nft_challenge/blob/main/index.html)
+- Solution URL: [Solution](https://htmlpreview.github.io/?https://github.com/ilhanhakan-koc/frontend_nft_challenge/blob/main/index.html)
 
 ## My process
 
