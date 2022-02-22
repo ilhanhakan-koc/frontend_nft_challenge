@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://htmlpreview.github.io/?https://github.com/ilhanhakan-koc/frontend_nft_challenge/blob/main/index.html)
 
 ## My process
 
@@ -52,7 +52,7 @@ In the next projects I will try to focus on flex and grid. Always trying to impl
 
 ### Useful resources
 
-- [Example resource 1](https://www.google.com) - :)
+- [Google](https://www.google.com) - :)
 
 ## Author
 
